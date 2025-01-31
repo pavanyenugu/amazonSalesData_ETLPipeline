@@ -5,9 +5,9 @@ ETL Pipeline for Amazon Sales Data
 
 2️⃣ Transform:
 
-Clean prices & ratings
-Extract main categories
-Compute discount amounts
-Convert rating counts to numeric
+Clean prices & ratings.
+Extract main categories.
+Compute discount amounts.
+Convert rating counts to numeric.
 
 3️⃣ Load: Save the transformed data to an SQLite database.
