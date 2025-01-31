@@ -2,6 +2,7 @@
 ETL Pipeline for Amazon Sales Data
 
 1️⃣ Extract: Read the dataset from a CSV file.
+
 2️⃣ Transform:
 
 Clean prices & ratings
